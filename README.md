@@ -1,0 +1,2 @@
+# tesseract-demo
+windows
